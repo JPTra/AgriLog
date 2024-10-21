@@ -1,0 +1,16 @@
+<resources>
+    <string name="warna">
+        <font color="#FFBF61">Agri</font><font color="#54C392">Log</font>
+    </string>
+
+    <string name="signin">
+        <font color="#FFBF61">Sign</font>
+        <font color="#FFBF61">in</font>
+    </string>
+
+    <string name="signup">
+        <font color="#FFBF61">Sign</font>
+        <font color="#FFBF61">up</font>
+    </string>
+
+</resources>
